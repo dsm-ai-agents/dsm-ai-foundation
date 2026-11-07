@@ -237,3 +237,7 @@ Proposed file organization for later phases: `research/` for the catalog and sou
 5. Select Master Class and Founder accent treatments during the pilot; use the supplied amber/teal direction for Accelerator APEX.
 6. Incorporate any official logo assets and the referenced `references/style-guide.txt` if they become available. Neither was present in the project when this brief was written; the supplied inline style guidance is sufficient for initial planning.
 7. Define any later Excel or task-testing workstream separately; it is not part of the initial visual-library deliverable.
+
+## AI income opportunity research
+
+Explore the [100 AI Income Opportunities project](research/100-ai-income-opportunities/README.md). Start with the [master decision index](research/100-ai-income-opportunities/MASTER-INDEX.md), choose an industry in the [chapter index](research/100-ai-income-opportunities/CHAPTER-INDEX.md), then assess a specific offer and its validation test.
