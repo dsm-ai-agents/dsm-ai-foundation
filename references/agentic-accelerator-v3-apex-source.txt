@@ -1,0 +1,125 @@
+# Agentic Accelerator V3 APEX: Slide Content
+
+Brand: Data Science Masterminds (DSM)
+Deck: 16 slides, 16:9. Style: dark navy, amber accent (#F2A541), teal secondary (#5EC4B6), lots of space, minimal text, one idea per slide.
+Fonts: Space Grotesk (headings), Inter (body).
+
+---
+
+## Slide 1: Cover
+- Eyebrow: Data Science Masterminds
+- Title: Agentic Accelerator
+- Badge: V3 APEX
+- Subline: Launching November 2026
+- Tagline: The standard for hands-on AI education.
+- Notes: V3 of the Accelerator, renamed from AI Agent Accelerator to Agentic Accelerator. Codename APEX.
+
+## Slide 2: Why V3
+- Title: From early mover to the standard
+- Timeline (4 steps):
+  - Apr 2025: First to market. Still learning how to market it.
+  - Jan 2026: Crowded market. Lean marketing budget.
+  - Sep 2026: Offer at full value. Ads getting expensive.
+  - 2027 (highlighted): Market leader. A global, always-on learning community.
+
+## Slide 3: Our 2027 Vision
+- Big statement: The standard for hands-on AI education.
+- Three icon points:
+  - Confident, premium, established
+  - Continuous learning community
+  - Live meetup in the US
+- Notes: We set the standard, we do not follow trends.
+
+## Slide 4: DSM Memberships
+- Title: One ladder, five steps (visual staircase, rising left to right)
+  - FREE: Masterclass
+  - L1 · $99: Workshops (Sprints plus $9 to $49 add-ons)
+  - L2 · $997: Agentic Accelerator (this program, highlighted)
+  - L3 · $2,997: Agentic Founder
+  - L4 · $4,997+: 1:1 Mentoring or Corporate Training
+- Notes: L1 = 3-Day Agentic Sprint monthly at $99. Add-ons $9 to $49: 2-Day Job Search, 2-Day n8n Basics and Advanced, 2-Day Hermes (with Amazon Book Publishing), each every 6 weeks; 3-Day AI Cashflow Sprint monthly.
+
+## Slide 5: How We Evolved
+- Title: Three versions in 19 months (3 cards)
+  - V1 · Apr 2025 · ORIGIN: Low code. n8n bonus included. 6 core use cases.
+  - V2 · Jan 2026 · NOVA: No code. Claude Cowork + n8n. 21+ projects. 4 bonus workshops.
+  - V3 · Nov 2026 · APEX (highlighted): Clear learning path. 5 session formats. 7 coaches. 3 skill tracks.
+- Notes: V1 use cases: RAG, Data, LinkedIn, Stock, Multi Agent, Personal Brand Website. V2 also explored Microsoft Copilot, Manus, GenSpark.
+
+## Slide 6: What We Learned
+- Title: Four things V2 taught us
+  - 01 New joiners every week: New and existing members move at different speeds.
+  - 02 Members stay for the long run: One-time fee, 3+ months typical, some over a year.
+  - 03 Weekly hands-on drains energy: Fast market shifts, constant rewrites, communication gaps.
+  - 04 One pace fits no one: Some need basics, some variety, some advanced.
+- Notes: Fixed learning pathways were tried and failed because the market moved too fast.
+
+## Slide 7: The APEX Answer (amber statement slide)
+- Title: Built to sustain
+- Four icons: Clear learning path · More coaches · Variety of sessions · More tools
+
+## Slide 8: Session Formats
+- Title: Five ways to learn (5 cards)
+  - Flow Circle: Build together, hands-on. 2x a month.
+  - Learning Circle: Teaching only, clear path. 1x a month.
+  - Workshops: Fast deep dives, new topics. Every 6 weeks.
+  - Execution Block: Join a team, pick a project, ship. Monthly.
+  - Open Session: Explore, ask anything. Monthly.
+- Notes: Execution Blocks have no teaching and no hands-on demo.
+
+## Slide 9: The Monthly Rhythm
+- Title: Every Sunday, one session
+- Time pill: 8:00 PM IST · 9:30 AM EST
+- Four week tiles:
+  - W1: Flow Circle
+  - W2: Learning Circle
+  - W3: Flow Circle
+  - W4: Open Session or Execution Block
+
+## Slide 10: Your Coaches
+- Title: Who leads each session
+  - Flow Circle: Arpan · Kunaal
+  - Learning Circle: Kunaal
+  - Open Session: Arpan · Kunaal
+  - Execution Block: Sunil · Zuber
+
+## Slide 11: Workshops (every 6 weeks)
+- Title: Six specialists, six deep dives
+  - Super Agents: Arpan
+  - Claude Essentials: Sunil
+  - n8n Basic to Advanced: Zuber
+  - Image, Audio and Video: Ankur
+  - AI Cashflow: Raj
+  - Lead Gen: Shalini
+
+## Slide 12: Self-Paced Library and Challenges
+- Title: Three tracks, learn at your pace (3 cards with tag pills)
+  - AI Concepts: Advanced Prompting, RAG Agent, Data Agent, MCP Server, Agent Loop, Agent Harness, Memory State, Multi Agent, Guardrails, Evaluations
+  - Create Leverage: ChatGPT Plugins, Claude Projects, Claude Skills
+  - Functional Workflows: HR and Recruitment, Finance, Project Management, Operations, IT and Engineering, Leadership, Entrepreneurs
+- Notes: Same tracks power recorded courses and monthly challenges. Recorded courses also include Microsoft Copilot and Cowork.
+
+## Slide 13: AI Tool Stack
+- Title: Three ecosystems, one skill set
+  - Claude: Cowork · Code
+  - ChatGPT: Work · Codex
+  - Google: Gemini · AI Studio · Antigravity
+- Flow Circle builds: Documents · Data · Artifacts · Dashboards · Presentations · Personal brand · Web and mobile apps, built and deployed
+- Learning Circle adds: Copilot Studio · Copilot Cowork · OpenBot / MausBot
+
+## Slide 14: Grow With Us
+- Title: Three ways to help the community
+  - Refer: Free Masterclass. Free Sprint pass. 10% commission on joins.
+  - Review: Reel under 3 min. Trustpilot review. Get a coach LinkedIn review.
+  - Show proof: Post wins on the feed. Share your YouTube demo.
+
+## Slide 15: Next Referral Event
+- Title: 3-Day Agentic Sprint
+- Dates: 12 to 14 Nov 2026
+- Public price: $99 + 2 bonus passes
+- Your referrals: Free
+- If they join the Accelerator: 10% to you
+
+## Slide 16: What Comes Next
+- Title: APEX is just the start
+- Roadmap: V3 APEX (now) → V4 ZENITH (open tools) → V5 NEXUS → V6 INFINITY

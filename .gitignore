@@ -1,0 +1,7 @@
+# Download bundles are reproducible from the committed images.
+/deliverables/*.zip
+/assets/dsm-apex-pilot-images.zip
+
+# Python runtime files.
+__pycache__/
+*.pyc

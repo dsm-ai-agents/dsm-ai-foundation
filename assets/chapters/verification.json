@@ -1,0 +1,903 @@
+{
+  "expected": 112,
+  "present": 112,
+  "problems": [],
+  "images": [
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch01/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4bb4153669a3cc0eb51b60d1968a8c47194ff0b502f96052b661e12b5f5b7e66"
+    },
+    {
+      "id": 1,
+      "title": "Artificial intelligence",
+      "path": "ch01/001-artificial-intelligence.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9037ad5d52514766eb2b1d7830856edb68a0161e27608475ef918ae686a49c85"
+    },
+    {
+      "id": 2,
+      "title": "Machine learning",
+      "path": "ch01/002-machine-learning.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2097563347ba4bcb01291228f4264552b50bb97818b61b3de5db25ed706b951d"
+    },
+    {
+      "id": 3,
+      "title": "Generative AI",
+      "path": "ch01/003-generative-ai.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e339d96a1831fbc3cc5af54be74cbff8d4a5ee135258ae16c553f68b9ae16d36"
+    },
+    {
+      "id": 4,
+      "title": "Model versus application",
+      "path": "ch01/004-model-versus-application.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ea723e87095273ab67d7b518c0b37282986dc10011562ee1f1677298c4396d9c"
+    },
+    {
+      "id": 5,
+      "title": "Prediction versus generation",
+      "path": "ch01/005-prediction-versus-generation.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "58dc55b6cb2dc4a3ef0c7cf3fa67af42281b41b5ca3ddb375f9783c018ff2232"
+    },
+    {
+      "id": 6,
+      "title": "Multimodal AI",
+      "path": "ch01/006-multimodal-ai.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5a5bba27e07e8ac78e04ec15c5433b2c6e1dd4a6f5f0162018ba6fcbeec01a50"
+    },
+    {
+      "id": 7,
+      "title": "Hallucination",
+      "path": "ch01/007-hallucination.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9ad5c18405dc537cf296b91ba44cb023f87d7ee16a5da20baa88dcf3616887ce"
+    },
+    {
+      "id": 8,
+      "title": "Human augmentation",
+      "path": "ch01/008-human-augmentation.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1f6d7c1f4d2d5bcf82eb437402d954a1a88afc6df04badaff210ec4dde7e89ee"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch02/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "dbf48a0ac0cca077e98a33c0aab5afbed8897052a177b4c57058c909b55266c7"
+    },
+    {
+      "id": 9,
+      "title": "Structured and unstructured data",
+      "path": "ch02/009-structured-and-unstructured-data.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8e98ae80964bd8b6ea8d811ab4b098a062535b70ccee9b5fb11c2d0397469c72"
+    },
+    {
+      "id": 10,
+      "title": "Data quality",
+      "path": "ch02/010-data-quality.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bb4dbd99651b06e7060beecdeb6161f8610ffc630ef5175bdbbed019781f9b78"
+    },
+    {
+      "id": 11,
+      "title": "Features and labels",
+      "path": "ch02/011-features-and-labels.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2737217ebf98f98664c8e793d733431ad534ea57863b58c5d1d0d7ffec8f87f4"
+    },
+    {
+      "id": 12,
+      "title": "Sampling bias",
+      "path": "ch02/012-sampling-bias.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1d60f635a06d3fd5fd0f4f1278eec96452f38fa956ab8b9ecfeebbb278fa16ad"
+    },
+    {
+      "id": 13,
+      "title": "Privacy and consent",
+      "path": "ch02/013-privacy-and-consent.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f2984d096480372f0ea19cfa98cc82d5ddd49f26ab766542778d5771a54af5b0"
+    },
+    {
+      "id": 14,
+      "title": "Probability and uncertainty",
+      "path": "ch02/014-probability-and-uncertainty.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "50e1645f1fece86af1e8aa614a411c3ee8555eba3a3d254882ef88970003abae"
+    },
+    {
+      "id": 15,
+      "title": "Correlation versus causation",
+      "path": "ch02/015-correlation-versus-causation.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e9b6cf82d369a090efbe8b348522fedbe4b914e5d3edcb79197a90de2770ef82"
+    },
+    {
+      "id": 16,
+      "title": "Data visualization",
+      "path": "ch02/016-data-visualization.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "44d0db35119dd1b80e7e2fcc3cdc426130397d6802199b06ea7f65ebb400cc3b"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch03/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "39a77b205a58e291fc02ef08824e8bf9ad887e4348192fc2040ac48a9b932536"
+    },
+    {
+      "id": 17,
+      "title": "Supervised learning",
+      "path": "ch03/017-supervised-learning.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e76f21dd6a7e8ee5a487312b2db7d78a8945022a28313395c132b0439bc04cd9"
+    },
+    {
+      "id": 18,
+      "title": "Unsupervised learning",
+      "path": "ch03/018-unsupervised-learning.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0bde18bd79e63eb753a0409a9d96aab55e8ad0bb12ce4f0455d6deaa7e9c4730"
+    },
+    {
+      "id": 19,
+      "title": "Reinforcement learning",
+      "path": "ch03/019-reinforcement-learning.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3107c347dc1e46d7b8deff996c2003eb485ac8b17afba1825f4b60681eb098ce"
+    },
+    {
+      "id": 20,
+      "title": "Neural networks and deep learning",
+      "path": "ch03/020-neural-networks-and-deep-learning.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "02e3fbaa90289dc312f335c10e80816b8c0205f5498dbb1376b769cb2e053281"
+    },
+    {
+      "id": 21,
+      "title": "Training versus inference",
+      "path": "ch03/021-training-versus-inference.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7dfee385b0b33e01776a3e8b283ca1187dc7ba4feff42f4ffa1993ff559170be"
+    },
+    {
+      "id": 22,
+      "title": "Training, validation, and test sets",
+      "path": "ch03/022-training-validation-and-test-sets.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "908155a8cec66f5dffe378d8bb9a1a92baf732e83f40a4cdcead240e34b6756f"
+    },
+    {
+      "id": 23,
+      "title": "Overfitting",
+      "path": "ch03/023-overfitting.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d8392670f2003f3f96b7bd0745a72ff886d8d672d2f69f177d7173333999595b"
+    },
+    {
+      "id": 24,
+      "title": "Fine-tuning",
+      "path": "ch03/024-fine-tuning.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "df38183f59129667782e32f06f0a78ca2cb47007ae60bfedfbd7426a7f6f1007"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch04/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2e98cd25b34ce706d022c30e61151985656e1c4605e353935906370c3cc77896"
+    },
+    {
+      "id": 25,
+      "title": "Large language models",
+      "path": "ch04/025-large-language-models.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d20894bd6deefcda4a3373bc2e5357548560aa90d7d7ce04d15da08b5170b569"
+    },
+    {
+      "id": 26,
+      "title": "Tokens",
+      "path": "ch04/026-tokens.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e831cbbf74021b82f174c2a1cb4ab6df7581d2506762b073897ec8338ac28286"
+    },
+    {
+      "id": 27,
+      "title": "Context window",
+      "path": "ch04/027-context-window.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c60cf80859ea2f6c63be691bfed1f11dfc4ab5d967c5094bcbda17b76a62aa8a"
+    },
+    {
+      "id": 28,
+      "title": "Attention",
+      "path": "ch04/028-attention.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "79abc55224a6e1beecec00e9bc6019e8fa78d9d198c6fae824dc803d00337248"
+    },
+    {
+      "id": 29,
+      "title": "Diffusion",
+      "path": "ch04/029-diffusion.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3d21da60fe360bc6b8ebd3088ea4961d1b47126b1c75921ba3cadf0f6ad31cb1"
+    },
+    {
+      "id": 30,
+      "title": "A clear prompt",
+      "path": "ch04/030-a-clear-prompt.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f5e850172ca838a2aa2d9affc032eabc4b66e54bd6ecaacb23174151cd3caa0a"
+    },
+    {
+      "id": 31,
+      "title": "Few-shot prompting",
+      "path": "ch04/031-few-shot-prompting.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "49429d2fc1f773f84388289d605da3c12df70cb6e0feb8392abc41e85228604e"
+    },
+    {
+      "id": 32,
+      "title": "Output contracts",
+      "path": "ch04/032-output-contracts.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "07ed7f6c67dd885f5809bc525ae8b254f7530c65f97effe46595049911ed7f06"
+    },
+    {
+      "id": 33,
+      "title": "Task decomposition",
+      "path": "ch04/033-task-decomposition.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1642acb7832dc581842931796cb6202694536d9f8ed8e6d0a501f02ce0ab3266"
+    },
+    {
+      "id": 34,
+      "title": "Verification",
+      "path": "ch04/034-verification.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a875a729f7618aa0e92df7c9007bfd6639eb7484917b118b12caaea68f068ecb"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch05/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f50e2652d66db5d0737deb2d7101e9002484eeeaf9a3996e51d69b6a0ae47713"
+    },
+    {
+      "id": 35,
+      "title": "Context engineering",
+      "path": "ch05/035-context-engineering.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4116f962bc1ad4ef44aae56bf5fc87d9f792ba7e8b7219eccae5ede248b199a0"
+    },
+    {
+      "id": 36,
+      "title": "Grounding",
+      "path": "ch05/036-grounding.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6dd0b6c4d56a1431795309221c94cae7a773032654d51195e0cc70440afd050c"
+    },
+    {
+      "id": 37,
+      "title": "Embeddings",
+      "path": "ch05/037-embeddings.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4e0943cf26c78fb936b9598a3aafd1a62d3e05e2bdee730a1950ec5ea442a3f5"
+    },
+    {
+      "id": 38,
+      "title": "Semantic search",
+      "path": "ch05/038-semantic-search.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0435c550707e4ab0d8368193ccf5c8da1dba2f02cca680a7924c827041368f82"
+    },
+    {
+      "id": 39,
+      "title": "Chunking",
+      "path": "ch05/039-chunking.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "76a7990e852c1d66498d505c7fde522b4794dfb8b40d8e515a9dfc4a0840e768"
+    },
+    {
+      "id": 40,
+      "title": "Retrieval-augmented generation (RAG)",
+      "path": "ch05/040-retrieval-augmented-generation.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "256e3ac7515c015d98d623923157ee41232e5b41eb8afe8596e0b31409d00b2f"
+    },
+    {
+      "id": 41,
+      "title": "Persistent memory",
+      "path": "ch05/041-persistent-memory.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "648cf66d041f43b17e7d79ed8a106bc7ec68a337e6aa0aaeb07bebce24d5524c"
+    },
+    {
+      "id": 42,
+      "title": "RAG versus fine-tuning",
+      "path": "ch05/042-rag-vs-fine-tuning.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "92ccbae22c9cbb31a4b3f54a9d15356f3856a042cf8c144ff3ad6577a2d03038"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch06/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0299a5e5fa7476309ea4207dfa6c059cfc8773c15f38483b80a7059e888b3a0a"
+    },
+    {
+      "id": 43,
+      "title": "APIs",
+      "path": "ch06/043-apis.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bc5d89dc53774fb629c9be6747eb7f53ad20ef4d620752e2d0bc90fb8603262b"
+    },
+    {
+      "id": 44,
+      "title": "JSON and schemas",
+      "path": "ch06/044-json-and-schemas.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3fd7bfc6da7a503a29fa70dcbd0304580ec568545dbba938f6d099cacad869f4"
+    },
+    {
+      "id": 45,
+      "title": "Databases and queries",
+      "path": "ch06/045-databases-and-queries.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4a0d07c84ae73b57c493084e24f1d76a79b3d043e8b4440d2a05ee046df9a673"
+    },
+    {
+      "id": 46,
+      "title": "Webhooks",
+      "path": "ch06/046-webhooks.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d7c06a33f4620e60e3aea138ed26c9d94a047bc6626a79d8c958db9b7f3439d9"
+    },
+    {
+      "id": 47,
+      "title": "Authentication and authorization",
+      "path": "ch06/047-authentication-and-authorization.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a7cdb973ca7b23eb81b5300d5a9e25215ce0e45636bf4f5eae710cf208448e25"
+    },
+    {
+      "id": 48,
+      "title": "Frontend and backend",
+      "path": "ch06/048-frontend-and-backend.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1350023d6ad59393160067ab7c6e59815ddf7e27c574483409c65d479dca281a"
+    },
+    {
+      "id": 49,
+      "title": "Version control",
+      "path": "ch06/049-version-control.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0e26d2f6722d6798fd037449e3c88348e6d05afb402c016393121305916a0ab2"
+    },
+    {
+      "id": 50,
+      "title": "Deployment",
+      "path": "ch06/050-deployment.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8327fbf5830c0eeeef15068d050655dbd68c56e1b8b22c1aaa6bb4e377605fb6"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch07/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "033b6fd508e2b210f50cab40658487ecd452160ec01ec0df205e78cd49f1596c"
+    },
+    {
+      "id": 51,
+      "title": "Workflow mapping",
+      "path": "ch07/051-workflow-mapping.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "60ea0d148c955de21598e9416d19b82be983bdce6d4ca4cdef4d61e99e23baf9"
+    },
+    {
+      "id": 52,
+      "title": "Triggers and conditions",
+      "path": "ch07/052-triggers-and-conditions.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6b244b1f3582545fbb8412314290348faa2513436c23bb707094c5a492017153"
+    },
+    {
+      "id": 53,
+      "title": "Prompt chaining",
+      "path": "ch07/053-prompt-chaining.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "dd531b86b1ead98598155f9a8105b01584e7f83a99b5dc64f6e819bd19c1881f"
+    },
+    {
+      "id": 54,
+      "title": "Routing",
+      "path": "ch07/054-routing.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c5637ed8b3328f7e8cc5ebef53f754b0b493637f05ad84d4fefdb671cabca582"
+    },
+    {
+      "id": 55,
+      "title": "Parallel execution",
+      "path": "ch07/055-parallel-execution.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "12c7e0815724fdfaec2cc0c2f0a5506dce11e70575a1c77617c150d03d2c7d25"
+    },
+    {
+      "id": 56,
+      "title": "Reusable templates",
+      "path": "ch07/056-reusable-templates.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "16eed8a5b84d1707ba2aee0f8a1e736655ced8d017ef643106104215a912dde1"
+    },
+    {
+      "id": 57,
+      "title": "Agent skills",
+      "path": "ch07/057-agent-skills.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5e5119208d682a35ba8611db7a28025c024bb0daf34488234ba7b2562db52b82"
+    },
+    {
+      "id": 58,
+      "title": "Project workspaces",
+      "path": "ch07/058-project-workspaces.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "405ee8d363243986f83015aa30346f004f9955ec7b95b556555e577ee32342dc"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch08/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6c80a0c8b7628898759545a0c6fc1981879fcd1e7a6c58ca65dd392f43530138"
+    },
+    {
+      "id": 59,
+      "title": "AI agents",
+      "path": "ch08/059-ai-agents.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "52fc0d5875474cf38b0419aa07a3a1df47082ce9c916ad0d1a320fea064ecd99"
+    },
+    {
+      "id": 60,
+      "title": "Agent loop",
+      "path": "ch08/060-agent-loop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5ab1e1ffb00908035ce9bb796f2dbc7b37f8e4adc109218977cb5a198d941e69"
+    },
+    {
+      "id": 61,
+      "title": "Planning and replanning",
+      "path": "ch08/061-planning-and-replanning.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ac9923550e402824fbadcb01a1066bf0585e6fb323a43b1a1d1c3ceae5b75669"
+    },
+    {
+      "id": 62,
+      "title": "Tool calling",
+      "path": "ch08/062-tool-calling.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "848b18f55903dd08faba6dfd54b16b48c0a16f9662b122d0659687fbba8b3451"
+    },
+    {
+      "id": 63,
+      "title": "Agent harness",
+      "path": "ch08/063-agent-harness.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fa727f1d664592f1399aeb0f04602f2c6b34f3ba72e0144371ff34a95cff8a69"
+    },
+    {
+      "id": 64,
+      "title": "State and checkpoints",
+      "path": "ch08/064-state-and-checkpoints.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0ce589fbd24912ab9828bb8a727e842da2b20f1207218542311425b937801f08"
+    },
+    {
+      "id": 65,
+      "title": "Multi-agent orchestration",
+      "path": "ch08/065-multi-agent-orchestration.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0adb57c435e19fdad6461a0cb797c517cf12102635f564a120c94c9fbe3eb3e4"
+    },
+    {
+      "id": 66,
+      "title": "Model Context Protocol (MCP)",
+      "path": "ch08/066-model-context-protocol-mcp.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c654631cfad54dfca5be0eb80b9035fd3444893c18ddae174d0f4d8abb8c7103"
+    },
+    {
+      "id": 67,
+      "title": "Agent-to-agent communication",
+      "path": "ch08/067-agent-to-agent-communication.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9786d50623d0e66e98766ed8b2c8aa8149879d0b96757596ae9a0082a962be6e"
+    },
+    {
+      "id": 68,
+      "title": "Computer-use agents",
+      "path": "ch08/068-computer-use-agents.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "86d4c2d8a89b87c1d496736b2831a6440308f28cd2051365df34ee2a481d8ea2"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch09/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2259f2e84fee0cb40ee00da1310da471102e13881990b4cda19e5266074298b7"
+    },
+    {
+      "id": 69,
+      "title": "Evaluations",
+      "path": "ch09/069-evaluations.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "653ecd1662a9589ac242d2d5d30fc5527a25e7ac17e74c38c372eaf04dd35a82"
+    },
+    {
+      "id": 70,
+      "title": "Precision and recall",
+      "path": "ch09/070-precision-and-recall.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "71ae5c44b696df9a05f350bcf1cc9b42460a05a66ee1de60d41fca31ff9d4c56"
+    },
+    {
+      "id": 71,
+      "title": "RAG evaluation",
+      "path": "ch09/071-rag-evaluation.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "da5766cb657fa8c356abf8d2878b6865a39150ca584b3cedc94edbf2cd5bba1e"
+    },
+    {
+      "id": 72,
+      "title": "Guardrails",
+      "path": "ch09/072-guardrails.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2f9fc6772b96442285d0d33f7d1b2a0197ecb547b1d9c79aba4978bc623694b9"
+    },
+    {
+      "id": 73,
+      "title": "Prompt injection",
+      "path": "ch09/073-prompt-injection.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "695984a84c29ecf6beddc881387b08de8de84c249cb67c86bb5f9756c50038a4"
+    },
+    {
+      "id": 74,
+      "title": "Least privilege and human approval",
+      "path": "ch09/074-least-privilege-and-human-approval.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bc6d4080fa1a5eaa01c47625f87c4b7d914424724e1c99f48df28570c9875341"
+    },
+    {
+      "id": 75,
+      "title": "Tracing and observability",
+      "path": "ch09/075-tracing-and-observability.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "23c52af52556e0497662334fb4f2254a18c1da118437adb30d71ddeed4db5fa4"
+    },
+    {
+      "id": 76,
+      "title": "Quality, latency, and cost",
+      "path": "ch09/076-quality-latency-and-cost.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6cb7b17493309f2ee211f9b690f9a3bfc79d35137fcffc3315a22b53354e411e"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch10/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8c98e7c4bb74611852563e09a07e9c070e4e7731dbf9bbd6b8f0d75eb4618f6e"
+    },
+    {
+      "id": 77,
+      "title": "Document workflows",
+      "path": "ch10/077-document-workflows.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2d0a9ccf6d109d35a3cfce7b995d9d108d2f8d3a4f644f0763317be35f3f140e"
+    },
+    {
+      "id": 78,
+      "title": "Data-analysis workflows",
+      "path": "ch10/078-data-analysis-workflows.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "556fcd107c6d05fafc8deee758b177eb5b97a7799bcd70da5c31f08fcaaec70a"
+    },
+    {
+      "id": 79,
+      "title": "Decision dashboards",
+      "path": "ch10/079-decision-dashboards.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "10ab5fe1c4e56848706c524355d0a8b6fd65527bfff4d99528aadb6afcda3881"
+    },
+    {
+      "id": 80,
+      "title": "Multimedia production workflows",
+      "path": "ch10/080-multimedia-production-workflows.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9c21ed262a090006c107441d08c45c0f0cd42d4ada8b6252ece631eaf202ea54"
+    },
+    {
+      "id": 81,
+      "title": "HR and recruitment support",
+      "path": "ch10/081-hr-and-recruitment-support.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f1fb371caebe51f00d773a539a64b71560cb3245c81fe6c838b586eb18973874"
+    },
+    {
+      "id": 82,
+      "title": "Finance exception handling",
+      "path": "ch10/082-finance-exception-handling.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "aba34b862ac61c66a67bcd964c08bd1472dc062d5de3177ddec09f74530cc002"
+    },
+    {
+      "id": 83,
+      "title": "Operations and project coordination",
+      "path": "ch10/083-operations-and-project-coordination.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0d3eba29f28ce95703cd0a3312004ac18a2872071788b2acfc325d8c93ce8b4e"
+    },
+    {
+      "id": 84,
+      "title": "AI-assisted software delivery",
+      "path": "ch10/084-ai-assisted-software-delivery.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "442c25c79926cd6401a832743e2acc4dbc446e51bbb7e422475e9cd2e62ed362"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch11/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a2bc7ca0d35efc514f326485386871cc787e485f8f9552b1cb2956bfade86e1f"
+    },
+    {
+      "id": 85,
+      "title": "Customer discovery",
+      "path": "ch11/085-customer-discovery.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5eb5a4358ecab24c0977ae8b6344feb154c4be84b63df042e8cffda1cbca4c3a"
+    },
+    {
+      "id": 86,
+      "title": "Use-case prioritization",
+      "path": "ch11/086-use-case-prioritization.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "21cea114cce9d3442595df2e91583eea414fd242ec40ecb06e140951950782dc"
+    },
+    {
+      "id": 87,
+      "title": "Minimum viable product",
+      "path": "ch11/087-minimum-viable-product.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5c9cae9fdce2da8189b5f36e14f9a086be81e08852d848c1d1b84de6b6731856"
+    },
+    {
+      "id": 88,
+      "title": "Value proposition",
+      "path": "ch11/088-value-proposition.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f08bdbde569b9a230352cc518d44085b4db32605f138cc08e8c6d51cbb938bf5"
+    },
+    {
+      "id": 89,
+      "title": "Lead-generation workflows",
+      "path": "ch11/089-lead-generation-workflows.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "05e075c756b2a4f6ed50cb7c8520e27fdc960bfebfdb754ceb436e3bb641dc89"
+    },
+    {
+      "id": 90,
+      "title": "Sales and CRM workflows",
+      "path": "ch11/090-sales-and-crm-workflows.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0e2f69acb34f4d9ee43d854824142db3f7178d2a985ef25c63ce06bf815341a4"
+    },
+    {
+      "id": 91,
+      "title": "Unit economics",
+      "path": "ch11/091-unit-economics.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "95a51e269199e6867c320925279697ce3cf293d3bb086b0a635d76f67a3140a9"
+    },
+    {
+      "id": 92,
+      "title": "Productized services",
+      "path": "ch11/092-productized-services.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "89843563f9bced360726b158c049e8d0460f9e6cc491553cb56ddba7c6c45841"
+    },
+    {
+      "id": "index",
+      "title": "Chapter introduction",
+      "path": "ch12/00-chapter-index.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cd7aff3e82b7ce6043743d55098a53409ba6ca2b0d76cd198c69c5e43208c04e"
+    },
+    {
+      "id": 93,
+      "title": "Systems thinking",
+      "path": "ch12/093-systems-thinking.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ea7e5a76293c624762a10259b2415de31e0a75e2b5864876705db2ed4c530e64"
+    },
+    {
+      "id": 94,
+      "title": "Critical judgment",
+      "path": "ch12/094-critical-judgment.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6d33e7834569b6aed4651575be447f01f85d18b4b523df77959164f967397139"
+    },
+    {
+      "id": 95,
+      "title": "Effective delegation",
+      "path": "ch12/095-effective-delegation.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0fbf16020913b57a624e3381146899cfe9b3092d251f009af0e348b26716f42d"
+    },
+    {
+      "id": 96,
+      "title": "Change management",
+      "path": "ch12/096-change-management.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e46600d73a7f40bf2a7203811da4cdc90e12b955d2b7bccdf99935691fcdc71f"
+    },
+    {
+      "id": 97,
+      "title": "Accountability and governance",
+      "path": "ch12/097-accountability-and-governance.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "228301ab0b62aa0f8a4b0184b7ba884fbedb729aabc53d922ba594a118b27bc8"
+    },
+    {
+      "id": 98,
+      "title": "Feedback loops",
+      "path": "ch12/098-feedback-loops.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "55b5bf12f04f45dbcbad2ee9d70fb7a93fe57a89fe960a096462299fd9caea60"
+    },
+    {
+      "id": 99,
+      "title": "Learning agility",
+      "path": "ch12/099-learning-agility.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b4ad4d31a70d7da6fa23590a45aab83ec36fc3946f67e1435b5fddd5dd56c48d"
+    },
+    {
+      "id": 100,
+      "title": "Future readiness",
+      "path": "ch12/100-future-readiness.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fdcfe034f105167c13298932088243fb96b33c15c2630594feb69cb971f0dc4e"
+    }
+  ]
+}

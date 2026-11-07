@@ -1,0 +1,710 @@
+[
+  {
+    "chapter": 1,
+    "title": "Understanding AI",
+    "start": 1,
+    "end": 8,
+    "why": "Recognize what AI can do, where it helps, and why human judgment still matters.",
+    "concepts": [
+      {
+        "id": 1,
+        "title": "Artificial intelligence",
+        "point": "Software can recognize patterns, predict outcomes, and generate content.",
+        "visual": "Three familiar objects: photo, weather forecast, draft letter."
+      },
+      {
+        "id": 2,
+        "title": "Machine learning",
+        "point": "Learn patterns from examples instead of writing every rule.",
+        "visual": "Fruit sorter learning from labeled examples."
+      },
+      {
+        "id": 3,
+        "title": "Generative AI",
+        "point": "Create new content using learned patterns and supplied instructions.",
+        "visual": "One brief becoming text, image, and audio waveform."
+      },
+      {
+        "id": 4,
+        "title": "Model versus application",
+        "point": "The model is one component of a usable product.",
+        "visual": "Engine beside complete car; reuse pilot 004."
+      },
+      {
+        "id": 5,
+        "title": "Prediction versus generation",
+        "point": "Estimating an outcome differs from creating content.",
+        "visual": "Forecast demand versus draft tomorrow's menu."
+      },
+      {
+        "id": 6,
+        "title": "Multimodal AI",
+        "point": "Work with different types of information together.",
+        "visual": "Photo, voice note, and written question in one workspace."
+      },
+      {
+        "id": 7,
+        "title": "Hallucination",
+        "point": "A convincing answer can still be wrong or unsupported.",
+        "visual": "Polished answer with one unsupported claim highlighted for checking."
+      },
+      {
+        "id": 8,
+        "title": "Human augmentation",
+        "point": "Decide what AI handles and what a person judges.",
+        "visual": "Navigation assistant suggests route; human drives."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "Understanding data",
+    "start": 9,
+    "end": 16,
+    "why": "Understand the information behind AI so you can spot weak inputs and misleading conclusions.",
+    "concepts": [
+      {
+        "id": 9,
+        "title": "Structured and unstructured data",
+        "point": "Information comes in organized fields and freer forms.",
+        "visual": "Spreadsheet beside emails, photographs, recordings."
+      },
+      {
+        "id": 10,
+        "title": "Data quality",
+        "point": "Missing, stale, or incorrect inputs weaken results.",
+        "visual": "Recipe with missing quantity and expired ingredient."
+      },
+      {
+        "id": 11,
+        "title": "Features and labels",
+        "point": "Features describe examples; labels provide known answers.",
+        "visual": "Fruit card with size and color beside fruit name."
+      },
+      {
+        "id": 12,
+        "title": "Sampling bias",
+        "point": "A narrow sample can give a misleading picture.",
+        "visual": "Inspecting only the top layer of a varied fruit basket."
+      },
+      {
+        "id": 13,
+        "title": "Privacy and consent",
+        "point": "Having access does not mean every use is permitted.",
+        "visual": "Personal file with clear purpose and permission boundaries."
+      },
+      {
+        "id": 14,
+        "title": "Probability and uncertainty",
+        "point": "Likelihood is different from certainty.",
+        "visual": "Forecast with several possible outcomes; no unsupported percentages."
+      },
+      {
+        "id": 15,
+        "title": "Correlation versus causation",
+        "point": "Moving together does not prove one thing causes another.",
+        "visual": "Hot weather influences both ice-cream sales and swimming."
+      },
+      {
+        "id": 16,
+        "title": "Data visualization",
+        "point": "Choose a view that answers a specific question.",
+        "visual": "Small illustrative table beside clear matching chart."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "How machines learn",
+    "start": 17,
+    "end": 24,
+    "why": "Understand learning and testing so you can distinguish genuine improvement from memorization.",
+    "concepts": [
+      {
+        "id": 17,
+        "title": "Supervised learning",
+        "point": "Learn from examples paired with known answers.",
+        "visual": "Practice cards paired with answers."
+      },
+      {
+        "id": 18,
+        "title": "Unsupervised learning",
+        "point": "Find groups or patterns without supplied answer labels.",
+        "visual": "Unlabeled objects arranged into similar groups."
+      },
+      {
+        "id": 19,
+        "title": "Reinforcement learning",
+        "point": "Learn behavior from actions and reward signals.",
+        "visual": "Simple maze with feedback along attempted routes."
+      },
+      {
+        "id": 20,
+        "title": "Neural networks and deep learning",
+        "point": "Layers of learned transformations build useful representations.",
+        "visual": "Image through a few clearly simplified processing layers; no biological brain claim."
+      },
+      {
+        "id": 21,
+        "title": "Training versus inference",
+        "point": "Training updates the model; inference uses it.",
+        "visual": "Cooking practice versus serving a dish; reuse pilot 021."
+      },
+      {
+        "id": 22,
+        "title": "Training, validation, and test sets",
+        "point": "Practice, tune, then assess on held-out examples.",
+        "visual": "Three separate stacks: practice, validation, test."
+      },
+      {
+        "id": 23,
+        "title": "Overfitting",
+        "point": "Memorizing examples can fail on unfamiliar cases.",
+        "visual": "Learner masters one exact route but struggles at detour."
+      },
+      {
+        "id": 24,
+        "title": "Fine-tuning",
+        "point": "Additional training adapts model behavior for a task.",
+        "visual": "Generally trained cook receiving specialist pastry training."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "Generative AI and prompting",
+    "start": 25,
+    "end": 34,
+    "why": "Understand generation and give clear instructions that produce useful, checkable results.",
+    "concepts": [
+      {
+        "id": 25,
+        "title": "Large language models",
+        "point": "Language models generate text by modeling token sequences.",
+        "visual": "Sentence extending a small piece at a time."
+      },
+      {
+        "id": 26,
+        "title": "Tokens",
+        "point": "Text is processed in pieces that are not always whole words.",
+        "visual": "Short sentence divided into illustrative variable-sized tiles; label illustrative tokenization."
+      },
+      {
+        "id": 27,
+        "title": "Context window",
+        "point": "Each interaction has a bounded working space.",
+        "visual": "Desk with limited room for relevant pages."
+      },
+      {
+        "id": 28,
+        "title": "Attention",
+        "point": "Weight relationships between parts of the input.",
+        "visual": "Pronoun linked to the words that clarify it; no human attention claim."
+      },
+      {
+        "id": 29,
+        "title": "Diffusion",
+        "point": "A diffusion process gradually transforms noise into an image.",
+        "visual": "Noise, emerging structure, finished object; avoid claiming all image models work this way."
+      },
+      {
+        "id": 30,
+        "title": "A clear prompt",
+        "point": "Specify the task, context, constraints, and desired result.",
+        "visual": "Precise restaurant order versus ambiguous request."
+      },
+      {
+        "id": 31,
+        "title": "Few-shot prompting",
+        "point": "Examples demonstrate the pattern you want.",
+        "visual": "Two completed examples followed by new matching task."
+      },
+      {
+        "id": 32,
+        "title": "Output contracts",
+        "point": "Define the answer's shape before using it downstream.",
+        "visual": "Free-form text beside a clearly labeled output template."
+      },
+      {
+        "id": 33,
+        "title": "Task decomposition",
+        "point": "Break a complex request into manageable parts.",
+        "visual": "Shopping, preparation, cooking as three meal-planning steps."
+      },
+      {
+        "id": 34,
+        "title": "Verification",
+        "point": "Check claims and results against evidence or tests.",
+        "visual": "Draft checked against source, calculation, and requirements."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "Context, knowledge, and memory",
+    "start": 35,
+    "end": 42,
+    "why": "Give AI the right information at the right time instead of relying on longer prompts alone.",
+    "concepts": [
+      {
+        "id": 35,
+        "title": "Context engineering",
+        "point": "Select information needed for the next step.",
+        "visual": "Chef's station with only relevant recipe, ingredients, and tools."
+      },
+      {
+        "id": 36,
+        "title": "Grounding",
+        "point": "Connect an answer to supplied evidence.",
+        "visual": "Answer statements connected to highlighted source passages."
+      },
+      {
+        "id": 37,
+        "title": "Embeddings",
+        "point": "Represent items numerically to compare useful similarities.",
+        "visual": "Illustrative semantic map with related phrases near each other."
+      },
+      {
+        "id": 38,
+        "title": "Semantic search",
+        "point": "Search by meaning, beyond exact word overlap.",
+        "visual": "Vehicle repair query finds Fixing your car document."
+      },
+      {
+        "id": 39,
+        "title": "Chunking",
+        "point": "Split material into useful retrieval units.",
+        "visual": "Manual divided at meaningful section boundaries."
+      },
+      {
+        "id": 40,
+        "title": "Retrieval-augmented generation (RAG)",
+        "point": "Retrieve evidence, add context, then generate.",
+        "visual": "Three-stage process; reuse pilot 040."
+      },
+      {
+        "id": 41,
+        "title": "Persistent memory",
+        "point": "Store selected information for later interactions.",
+        "visual": "Temporary desk beside durable notebook; no automatic model retraining."
+      },
+      {
+        "id": 42,
+        "title": "RAG versus fine-tuning",
+        "point": "Supplying reference material differs from changing model parameters.",
+        "visual": "Open reference book beside specialist training."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "title": "Technology building blocks",
+    "start": 43,
+    "end": 50,
+    "why": "Understand how AI connects to software and becomes a working application.",
+    "concepts": [
+      {
+        "id": 43,
+        "title": "APIs",
+        "point": "Software interacts through defined interfaces.",
+        "visual": "Service counter exchanging request and result."
+      },
+      {
+        "id": 44,
+        "title": "JSON and schemas",
+        "point": "Structured fields support reliable exchange and validation.",
+        "visual": "Delivery label with required name, address, and item fields."
+      },
+      {
+        "id": 45,
+        "title": "Databases and queries",
+        "point": "Store records and retrieve what you need.",
+        "visual": "Organized cabinet with precise lookup request."
+      },
+      {
+        "id": 46,
+        "title": "Webhooks",
+        "point": "An event can notify another system automatically.",
+        "visual": "Doorbell signals arrival rather than repeated door checks."
+      },
+      {
+        "id": 47,
+        "title": "Authentication and authorization",
+        "point": "Identity and permission answer different questions.",
+        "visual": "Identity badge beside door-access list."
+      },
+      {
+        "id": 48,
+        "title": "Frontend and backend",
+        "point": "Visible interface and underlying processing work together.",
+        "visual": "Restaurant dining room and kitchen."
+      },
+      {
+        "id": 49,
+        "title": "Version control",
+        "point": "Track changes and recover earlier versions.",
+        "visual": "Document timeline with named checkpoints."
+      },
+      {
+        "id": 50,
+        "title": "Deployment",
+        "point": "Make a tested application available in its intended environment.",
+        "visual": "Prototype becomes a maintained service."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "title": "Reusable capabilities and workflows",
+    "start": 51,
+    "end": 58,
+    "why": "Turn one-off tasks into repeatable processes and reusable capabilities.",
+    "concepts": [
+      {
+        "id": 51,
+        "title": "Workflow mapping",
+        "point": "Make inputs, steps, decisions, and outputs explicit.",
+        "visual": "Simple order-to-delivery process."
+      },
+      {
+        "id": 52,
+        "title": "Triggers and conditions",
+        "point": "Define when work starts and which rules apply.",
+        "visual": "Incoming request at one clear decision gate."
+      },
+      {
+        "id": 53,
+        "title": "Prompt chaining",
+        "point": "One step supplies input to the next.",
+        "visual": "Research, outline, draft as three stations."
+      },
+      {
+        "id": 54,
+        "title": "Routing",
+        "point": "Send a task to an appropriate path.",
+        "visual": "Reception desk directs requests to specialists."
+      },
+      {
+        "id": 55,
+        "title": "Parallel execution",
+        "point": "Independent tasks can run simultaneously.",
+        "visual": "Cooks preparing separate dishes at once."
+      },
+      {
+        "id": 56,
+        "title": "Reusable templates",
+        "point": "Parameterize recurring instructions rather than rewrite them.",
+        "visual": "Report template filled with different client details."
+      },
+      {
+        "id": 57,
+        "title": "Agent skills",
+        "point": "Package instructions, resources, and scripts for recurring work.",
+        "visual": "Task kit containing guide, tools, and examples."
+      },
+      {
+        "id": 58,
+        "title": "Project workspaces",
+        "point": "Keep relevant instructions and reference material together.",
+        "visual": "Separate project folders with their own materials."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "title": "Agents and agentic systems",
+    "start": 59,
+    "end": 68,
+    "why": "Understand how agents select actions, use tools, and coordinate within boundaries.",
+    "concepts": [
+      {
+        "id": 59,
+        "title": "AI agents",
+        "point": "Select actions toward a goal within defined boundaries.",
+        "visual": "Fixed recipe versus cook adapting next step to conditions."
+      },
+      {
+        "id": 60,
+        "title": "Agent loop",
+        "point": "Use results to decide whether to continue or stop.",
+        "visual": "Observe, decide, act loop with exit; reuse pilot 060."
+      },
+      {
+        "id": 61,
+        "title": "Planning and replanning",
+        "point": "Revise steps when conditions change.",
+        "visual": "Route updated after road closure."
+      },
+      {
+        "id": 62,
+        "title": "Tool calling",
+        "point": "A model requests an action that software executes.",
+        "visual": "Assistant selecting calculator, search, or calendar."
+      },
+      {
+        "id": 63,
+        "title": "Agent harness",
+        "point": "Surrounding software manages execution, tools, and limits.",
+        "visual": "Model inside a labeled operating frame; scope varies by implementation."
+      },
+      {
+        "id": 64,
+        "title": "State and checkpoints",
+        "point": "Track progress so work can resume or recover.",
+        "visual": "Task board with saved checkpoint."
+      },
+      {
+        "id": 65,
+        "title": "Multi-agent orchestration",
+        "point": "Divide work when benefits justify coordination costs.",
+        "visual": "Coordinator assigning distinct roles to small team."
+      },
+      {
+        "id": 66,
+        "title": "Model Context Protocol (MCP)",
+        "point": "Standardize connections to tools and context.",
+        "visual": "Host with client connections to capability-providing servers; not automatic security."
+      },
+      {
+        "id": 67,
+        "title": "Agent-to-agent communication",
+        "point": "Exchange tasks and results across agent systems.",
+        "visual": "Service desks exchanging task ticket and deliverable."
+      },
+      {
+        "id": 68,
+        "title": "Computer-use agents",
+        "point": "Interact with software through its interface.",
+        "visual": "Agent uses browser within action boundaries and checkpoints."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "title": "Quality, safety, and reliability",
+    "start": 69,
+    "end": 76,
+    "why": "Test and monitor systems before trusting them with consequential work.",
+    "concepts": [
+      {
+        "id": 69,
+        "title": "Evaluations",
+        "point": "Test representative tasks against explicit success criteria.",
+        "visual": "Driving test under several conditions, not one easy road."
+      },
+      {
+        "id": 70,
+        "title": "Precision and recall",
+        "point": "False alarms and missed cases are different errors.",
+        "visual": "Sorting tray shows correct selections, wrong selections, and missed items; formulas only if accurate."
+      },
+      {
+        "id": 71,
+        "title": "RAG evaluation",
+        "point": "Assess retrieval and answer support separately.",
+        "visual": "Found the right passage? versus Used it correctly?"
+      },
+      {
+        "id": 72,
+        "title": "Guardrails",
+        "point": "Checks constrain behavior but do not guarantee safety or correctness.",
+        "visual": "Multiple inspection points around workflow."
+      },
+      {
+        "id": 73,
+        "title": "Prompt injection",
+        "point": "Untrusted content may attempt to redirect the system.",
+        "visual": "Retrieved document with a suspicious instruction clearly distinguished from user task."
+      },
+      {
+        "id": 74,
+        "title": "Least privilege and human approval",
+        "point": "Grant necessary access and review consequential actions.",
+        "visual": "Restricted keyring beside human approval gate."
+      },
+      {
+        "id": 75,
+        "title": "Tracing and observability",
+        "point": "Record events so failures can be investigated.",
+        "visual": "Task timeline of model calls and tools with failed step."
+      },
+      {
+        "id": 76,
+        "title": "Quality, latency, and cost",
+        "point": "Evaluate tradeoffs against the task's needs.",
+        "visual": "Three labeled controls and task-specific target; no invented benchmarks."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "title": "AI across workplace functions",
+    "start": 77,
+    "end": 84,
+    "why": "Recognize useful AI patterns across professions and connect learning to real work.",
+    "concepts": [
+      {
+        "id": 77,
+        "title": "Document workflows",
+        "point": "Transform source material into a reviewable deliverable.",
+        "visual": "Meeting notes become structured brief with sources."
+      },
+      {
+        "id": 78,
+        "title": "Data-analysis workflows",
+        "point": "Move from question to checked calculation and explanation.",
+        "visual": "Question, small spreadsheet, verified result."
+      },
+      {
+        "id": 79,
+        "title": "Decision dashboards",
+        "point": "Connect measures to actions people can take.",
+        "visual": "One clear indicator linked to one decision; illustrative data."
+      },
+      {
+        "id": 80,
+        "title": "Multimedia production workflows",
+        "point": "Coordinate brief, assets, editing, and review.",
+        "visual": "One brief becomes coordinated image, audio, video set."
+      },
+      {
+        "id": 81,
+        "title": "HR and recruitment support",
+        "point": "Assist administration while preserving human hiring decisions.",
+        "visual": "Scheduling and document preparation around human-led process."
+      },
+      {
+        "id": 82,
+        "title": "Finance exception handling",
+        "point": "Flag discrepancies for investigation.",
+        "visual": "Invoices through matching checks with one flagged discrepancy."
+      },
+      {
+        "id": 83,
+        "title": "Operations and project coordination",
+        "point": "Route work, track dependencies, and escalate blockers.",
+        "visual": "Task board with one visible bottleneck."
+      },
+      {
+        "id": 84,
+        "title": "AI-assisted software delivery",
+        "point": "Build from requirements through testing and deployment.",
+        "visual": "Company website through four checked stages."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "title": "Business value and monetization",
+    "start": 85,
+    "end": 92,
+    "why": "Connect technical capability to customer problems, delivery costs, and clear offers.",
+    "concepts": [
+      {
+        "id": 85,
+        "title": "Customer discovery",
+        "point": "Understand the problem before choosing technology.",
+        "visual": "Founder listens to customer before opening toolbox."
+      },
+      {
+        "id": 86,
+        "title": "Use-case prioritization",
+        "point": "Compare expected value, feasibility, and risk.",
+        "visual": "Three candidate tasks on simple qualitative scorecard."
+      },
+      {
+        "id": 87,
+        "title": "Minimum viable product",
+        "point": "Test an outcome with the smallest credible solution.",
+        "visual": "One working service counter before full store."
+      },
+      {
+        "id": 88,
+        "title": "Value proposition",
+        "point": "Explain customer outcomes rather than just AI features.",
+        "visual": "Feature-heavy description becomes clear benefit."
+      },
+      {
+        "id": 89,
+        "title": "Lead-generation workflows",
+        "point": "Research prospects and prepare relevant, reviewable outreach.",
+        "visual": "Research, qualification, draft, human review."
+      },
+      {
+        "id": 90,
+        "title": "Sales and CRM workflows",
+        "point": "Maintain continuity from inquiry to follow-up.",
+        "visual": "Customer record moving through meaningful stages."
+      },
+      {
+        "id": 91,
+        "title": "Unit economics",
+        "point": "Revenue less variable costs gives contribution, not net profit.",
+        "visual": "Illustrative $100 minus $40 equals $60 before fixed costs and taxes; reuse pilot 091."
+      },
+      {
+        "id": 92,
+        "title": "Productized services",
+        "point": "Package a repeatable outcome with defined scope.",
+        "visual": "Loose skills become a clear service offering."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "title": "Leadership, mindset, and future skills",
+    "start": 93,
+    "end": 100,
+    "why": "Lead adoption with judgment, accountability, and skills that transfer as tools change.",
+    "concepts": [
+      {
+        "id": 93,
+        "title": "Systems thinking",
+        "point": "Improving one step may not improve the whole process.",
+        "visual": "Fast workstation feeding a slower bottleneck."
+      },
+      {
+        "id": 94,
+        "title": "Critical judgment",
+        "point": "Question assumptions and seek evidence.",
+        "visual": "Decision card with evidence, assumptions, uncertainties."
+      },
+      {
+        "id": 95,
+        "title": "Effective delegation",
+        "point": "Specify outcomes, boundaries, and review points.",
+        "visual": "Clear task brief; reuse pilot 095."
+      },
+      {
+        "id": 96,
+        "title": "Change management",
+        "point": "Adoption needs redesigned work, training, and support.",
+        "visual": "Team moves from old process to supported new process."
+      },
+      {
+        "id": 97,
+        "title": "Accountability and governance",
+        "point": "Assign owners for decisions, access, and failures.",
+        "visual": "Workflow with visible human owners."
+      },
+      {
+        "id": 98,
+        "title": "Feedback loops",
+        "point": "Use measured results to decide what to improve.",
+        "visual": "Build, measure, review, revise loop."
+      },
+      {
+        "id": 99,
+        "title": "Learning agility",
+        "point": "Practice skills that transfer as tools change.",
+        "visual": "Stable foundation supporting replaceable tools."
+      },
+      {
+        "id": 100,
+        "title": "Future readiness",
+        "point": "Prepare for plausible scenarios rather than certain forecasts.",
+        "visual": "Several possible paths supported by data, judgment, and communication."
+      }
+    ]
+  }
+]

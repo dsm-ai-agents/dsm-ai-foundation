@@ -1,0 +1,26 @@
+DATA SCIENCE MASTERMINDS — AI VISUAL LIBRARY
+Kunaal Naik & Arpan Saxena
+Agentic Accelerator APEX visual treatment
+
+CONTENTS
+12 chapter folders, each beginning with 00-chapter-index.png.
+100 concept images, numbered 001 through 100.
+112 PNGs in the completed collection.
+
+HOW TO USE
+1. Extract the entire ZIP into your preferred local or OneDrive folder.
+2. Keep gallery.html and all ch01–ch12 folders together.
+3. Open gallery.html in your browser to browse or search the images.
+4. INDEX.md provides a text index with clickable image links.
+5. Open a chapter folder: its chapter index comes first, then concepts in numerical order.
+6. In PowerPoint, insert the PNGs as pictures. These files have flattened text and artwork.
+7. For offline OneDrive access, select “Always keep on this device”.
+
+ABOUT THE FILES
+The PNGs preserve their native generated resolution, recorded in chapter manifests.
+They are approximately 16:9, often 1672 × 941; they are not upscaled 1920 × 1080 files.
+Each chapter README contains teaching qualifications and research references.
+Business examples are illustrative, not claims about measured results or guaranteed income.
+
+These images use the approved APEX design. Separate Master Class and Founder brand
+variants, and editable PowerPoint layouts, are not included in this collection.
