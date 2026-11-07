@@ -1,0 +1,79 @@
+[
+  {
+    "id": "index",
+    "chapter": 20,
+    "filename": "00-chapter-index.png",
+    "headline": "Software and AI implementation",
+    "prompt": "Create ONE finished premium educational presentation image, landscape 16:9. Matched Data Science Masterminds Agentic Founder series. Apple-inspired restraint, generous negative space, deep evergreen #142823 background fading to near-black green, ivory-white text, restrained amber #F4B544 and muted teal details. Space Grotesk-like clean headings and Inter-like body. Large perfectly legible English, 6% safe margins. Friendly polished 3D objects with subtle studio lighting, no robots, no money imagery, no clutter. Footer exactly: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. Footer small but legible. No extra text beyond specified copy. Prices are hypothetical offers, never earnings.\nChapter index, text-led layout, minimal illustration. Eyebrow 'CHAPTER 20'. Headline 'Software and AI implementation'. Supporting sentence 'Consider this if you can engineer, test and support reliable software.'. List these five topics in five large spacious rows, exact IDs and titles:\nAI-096  Custom GPT-to-plugin migration service\nAI-097  Niche SaaS support integration\nAI-098  AI workflow evaluation service\nAI-099  Internal reporting plugin integration\nAI-100  Single-workflow micro-SaaS\nDecision line: 'Choose one problem. Test one paid offer.' Include exact footer. Avoid additional decorative text."
+  },
+  {
+    "id": "AI-096",
+    "chapter": 20,
+    "filename": "AI-096-custom-gpt-to-plugin-migration-service.png",
+    "headline": "Custom GPT-to-plugin migration service",
+    "prompt": "Create ONE finished premium educational presentation image, landscape 16:9. Matched Data Science Masterminds Agentic Founder series. Apple-inspired restraint, generous negative space, deep evergreen #142823 background fading to near-black green, ivory-white text, restrained amber #F4B544 and muted teal details. Space Grotesk-like clean headings and Inter-like body. Large perfectly legible English, 6% safe margins. Friendly polished 3D objects with subtle studio lighting, no robots, no money imagery, no clutter. Footer exactly: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. Footer small but legible. No extra text beyond specified copy. Prices are hypothetical offers, never earnings.\nTopic decision card. Clear headline at upper left, fit sentence below. Concise sell and first-test blocks left, dominant original 3D illustration on right of an existing workflow card moving to a plugin module through a test checklist. Keep all text readable, no tiny dense text. Eyebrow 'AI-096 \u2022 ADVANCED'. Headline 'Custom GPT-to-plugin migration service'. Fit sentence 'Consider this if you can engineer, test and support reliable software.'. Buyer label 'Buyer: Small teams with existing GPT workflows'. Sell block: 'Sell: Inventory, migration, replacement integration plan and regression checks.'. First test block: 'First test: Migrate one authorized noncritical workflow and verify end-user access.'. Price line: 'Price hypothesis: $2,500 per project'. Small qualification: 'Workspace-specific permissions; custom actions may need rebuilding.'. Exact footer. No revenue promises.",
+    "source_ids": [
+      "S03",
+      "S15",
+      "S16",
+      "S31",
+      "S13"
+    ]
+  },
+  {
+    "id": "AI-097",
+    "chapter": 20,
+    "filename": "AI-097-niche-saas-support-integration.png",
+    "headline": "Niche SaaS support integration",
+    "prompt": "Create ONE finished premium educational presentation image, landscape 16:9. Matched Data Science Masterminds Agentic Founder series. Apple-inspired restraint, generous negative space, deep evergreen #142823 background fading to near-black green, ivory-white text, restrained amber #F4B544 and muted teal details. Space Grotesk-like clean headings and Inter-like body. Large perfectly legible English, 6% safe margins. Friendly polished 3D objects with subtle studio lighting, no robots, no money imagery, no clutter. Footer exactly: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. Footer small but legible. No extra text beyond specified copy. Prices are hypothetical offers, never earnings.\nTopic decision card. Clear headline at upper left, fit sentence below. Concise sell and first-test blocks left, dominant original 3D illustration on right of approved documentation connected to a support answer and human handoff. Keep all text readable, no tiny dense text. Eyebrow 'AI-097 \u2022 ADVANCED'. Headline 'Niche SaaS support integration'. Fit sentence 'Consider this if you can engineer, test and support reliable software.'. Buyer label 'Buyer: Small software companies'. Sell block: 'Sell: Source-grounded support assistant with evaluations and human escalation.'. First test block: 'First test: Run a shadow pilot on fifty historical questions before production.'. Price line: 'Price hypothesis: $1,500 per customer/month'. Small qualification: 'Native support products compete; monitor hallucinations and access boundaries.'. Exact footer. No revenue promises.",
+    "source_ids": [
+      "S03",
+      "S15",
+      "S16",
+      "S31",
+      "S13"
+    ]
+  },
+  {
+    "id": "AI-098",
+    "chapter": 20,
+    "filename": "AI-098-ai-workflow-evaluation-service.png",
+    "headline": "AI workflow evaluation service",
+    "prompt": "Create ONE finished premium educational presentation image, landscape 16:9. Matched Data Science Masterminds Agentic Founder series. Apple-inspired restraint, generous negative space, deep evergreen #142823 background fading to near-black green, ivory-white text, restrained amber #F4B544 and muted teal details. Space Grotesk-like clean headings and Inter-like body. Large perfectly legible English, 6% safe margins. Friendly polished 3D objects with subtle studio lighting, no robots, no money imagery, no clutter. Footer exactly: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. Footer small but legible. No extra text beyond specified copy. Prices are hypothetical offers, never earnings.\nTopic decision card. Clear headline at upper left, fit sentence below. Concise sell and first-test blocks left, dominant original 3D illustration on right of test-case cards with pass and fail marks feeding a prioritized issue report. Keep all text readable, no tiny dense text. Eyebrow 'AI-098 \u2022 ADVANCED'. Headline 'AI workflow evaluation service'. Fit sentence 'Consider this if you can engineer, test and support reliable software.'. Buyer label 'Buyer: Agencies shipping AI features'. Sell block: 'Sell: Fifty-case test set, failure taxonomy and prioritized remediation report.'. First test block: 'First test: Audit one narrowly scoped workflow against buyer-agreed criteria.'. Price line: 'Price hypothesis: $2,000 per project'. Small qualification: 'No blanket certification; test coverage and human gold labels limit conclusions.'. Exact footer. No revenue promises.",
+    "source_ids": [
+      "S03",
+      "S15",
+      "S16",
+      "S31",
+      "S13"
+    ]
+  },
+  {
+    "id": "AI-099",
+    "chapter": 20,
+    "filename": "AI-099-internal-reporting-plugin-integration.png",
+    "headline": "Internal reporting plugin integration",
+    "prompt": "Create ONE finished premium educational presentation image, landscape 16:9. Matched Data Science Masterminds Agentic Founder series. Apple-inspired restraint, generous negative space, deep evergreen #142823 background fading to near-black green, ivory-white text, restrained amber #F4B544 and muted teal details. Space Grotesk-like clean headings and Inter-like body. Large perfectly legible English, 6% safe margins. Friendly polished 3D objects with subtle studio lighting, no robots, no money imagery, no clutter. Footer exactly: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. Footer small but legible. No extra text beyond specified copy. Prices are hypothetical offers, never earnings.\nTopic decision card. Clear headline at upper left, fit sentence below. Concise sell and first-test blocks left, dominant original 3D illustration on right of three authorized source cards feeding a draft weekly report through a read-only connector. Keep all text readable, no tiny dense text. Eyebrow 'AI-099 \u2022 ADVANCED'. Headline 'Internal reporting plugin integration'. Fit sentence 'Consider this if you can engineer, test and support reliable software.'. Buyer label 'Buyer: Professional service teams'. Sell block: 'Sell: Read-only connector and draft weekly status report from approved systems.'. First test block: 'First test: Test one team and three report cycles before extending scope.'. Price line: 'Price hypothesis: $3,000 per project'. Small qualification: 'Permissions, prompt injection and confidential data boundaries need engineering.'. Exact footer. No revenue promises.",
+    "source_ids": [
+      "S03",
+      "S15",
+      "S16",
+      "S31",
+      "S13"
+    ]
+  },
+  {
+    "id": "AI-100",
+    "chapter": 20,
+    "filename": "AI-100-single-workflow-micro-saas.png",
+    "headline": "Single-workflow micro-SaaS",
+    "prompt": "Create ONE finished premium educational presentation image, landscape 16:9. Matched Data Science Masterminds Agentic Founder series. Apple-inspired restraint, generous negative space, deep evergreen #142823 background fading to near-black green, ivory-white text, restrained amber #F4B544 and muted teal details. Space Grotesk-like clean headings and Inter-like body. Large perfectly legible English, 6% safe margins. Friendly polished 3D objects with subtle studio lighting, no robots, no money imagery, no clutter. Footer exactly: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. Footer small but legible. No extra text beyond specified copy. Prices are hypothetical offers, never earnings.\nTopic decision card. Clear headline at upper left, fit sentence below. Concise sell and first-test blocks left, dominant original 3D illustration on right of a client brief becoming tracked task cards and a reviewed deliverable. Keep all text readable, no tiny dense text. Eyebrow 'AI-100 \u2022 ADVANCED'. Headline 'Single-workflow micro-SaaS'. Fit sentence 'Consider this if you can engineer, test and support reliable software.'. Buyer label 'Buyer: Niche agency operations managers'. Sell block: 'Sell: A hosted brief-to-deliverable tracker with structured AI draft assistance.'. First test block: 'First test: Sell three concierge pilots before writing a multi-tenant product.'. Price line: 'Price hypothesis: $100 per customer/month'. Small qualification: 'Customer acquisition, churn, security and support dominate; generic wrappers are fragile.'. Exact footer. No revenue promises.",
+    "source_ids": [
+      "S03",
+      "S15",
+      "S16",
+      "S31",
+      "S13"
+    ]
+  }
+]

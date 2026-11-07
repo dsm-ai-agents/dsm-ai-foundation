@@ -241,3 +241,5 @@ Proposed file organization for later phases: `research/` for the catalog and sou
 ## AI income opportunity research
 
 Explore the [100 AI Income Opportunities project](research/100-ai-income-opportunities/README.md). Start with the [master decision index](research/100-ai-income-opportunities/MASTER-INDEX.md), choose an industry in the [chapter index](research/100-ai-income-opportunities/CHAPTER-INDEX.md), then assess a specific offer and its validation test.
+
+**Agentic Founder visual library:** [121 decision-oriented images](assets/ai-income/README.md) — one master index, 20 chapter indexes and 100 opportunity topics. Browse using the [local filterable gallery](assets/ai-income/gallery.html).

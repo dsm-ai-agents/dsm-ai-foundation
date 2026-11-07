@@ -26,3 +26,7 @@ Choose the chapter closest to your existing experience. Each chapter helps you a
 | [18. Creative media and localization](chapters/18-index.md) | Editing, visual judgment, sound/video quality control and language expertise | AI-086–AI-090 |
 | [19. Agriculture and rural businesses](chapters/19-index.md) | Rural business operations, recordkeeping, seasonal planning and local knowledge | AI-091–AI-095 |
 | [20. Software, plugins and AI implementation](chapters/20-index.md) | Software engineering, authentication, evaluation, deployment and support | AI-096–AI-100 |
+
+## Visual navigation
+
+[Master index image](../../assets/ai-income/00-master-index.png) · [Image library by chapter](../../assets/ai-income/README.md) · [Local filterable gallery](../../assets/ai-income/gallery.html)

@@ -1,6 +1,6 @@
 # From 100 ideas to validated offers and images
 
-This plan separates the completed research/catalog phase from future buyer validation and visual production. No outreach, product launch or image generation has been performed.
+This plan separates the completed research/catalog phase from future buyer validation and visual production. No outreach or product launch has been performed. Image production was subsequently authorized and completed; see the execution update below.
 
 ## Working framework
 
@@ -83,7 +83,7 @@ For each idea selected for expansion:
 6. Freeze an editorial version before creating images.
 7. Update the CSV/JSON and readable card together; keep the stable AI-### ID.
 
-## Image production phase — next, not started
+## Original image production recommendation
 
 Start with five prototype cards from the shortlist and one collection cover. Use the [visual brief](VISUAL-BRIEF.md). Review readability, evidence labels and layout together before producing larger batches.
 
@@ -99,3 +99,7 @@ Every visual should carry the idea ID, buyer, problem, offer, entry level, price
 - Keep source notes and editable text separate from generated illustration assets.
 - Preserve a review log for factual claims, arithmetic, readability and asset rights.
 
+
+## Execution update — 7 November 2026
+
+The user authorized full parallel image production after committing the research. Research and decision navigation were pushed first in commit 26ffa48. Six parallel agents plus the parent produced a full collection of 121 reviewed PNGs: one master index, 20 chapter indexes and 100 topics. The parent visual guide was recovered and the entrepreneurial treatment uses Agentic Founder branding. Buyer validation remains unperformed. [Browse the visual library](../../assets/ai-income/README.md).

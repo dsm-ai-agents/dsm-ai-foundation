@@ -55,3 +55,7 @@ Before committing: compare an existing free or bundled tool; ask a buyer about t
 Read [economics and capacity](ECONOMICS.md). All catalog prices are test hypotheses. $1,000–$10,000 refers to illustrative monthly gross revenue, not guaranteed earnings or take-home pay.
 
 Then follow the [30-day validation plan](PLAN.md). Begin with one idea, not all 100.
+
+## Visual collection
+
+[Master index image](../../assets/ai-income/00-master-index.png) · [Browse the image library](../../assets/ai-income/README.md) · [Local searchable gallery](../../assets/ai-income/gallery.html)

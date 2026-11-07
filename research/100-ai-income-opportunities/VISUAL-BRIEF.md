@@ -1,6 +1,6 @@
 # Provisional visual direction
 
-**Status:** production authorized on 7 November 2026. Research/index commit precedes image generation.
+**Status:** production complete on 7 November 2026. Research/index commit preceded image generation. See [121-image library](../../assets/ai-income/README.md).
 
 The parent guide was recovered from GitHub commit 53b37b2: assets/pilot/shared-art-direction.txt and the root visual system. Use its landscape 16:9 layout, Space Grotesk-like headings, Inter-like body, generous spacing, polished friendly 3D imagery, and discreet branding. Adapt the palette to deep evergreen and amber for Agentic Founder. This is a new entrepreneurial treatment, not an independently approved brand standard.
 
@@ -58,3 +58,7 @@ This is original editorial copy describing a hypothetical offer, not a testimoni
 
 Canvas: landscape 16:9, matching the parent teaching library. Record actual native dimensions. Final PNGs are flattened images; generation prompts remain editable source specifications, not editable slide layers.
 
+
+## Delivered format
+
+121 reviewed PNGs at native 1672 × 941. Parent typography, landscape composition and attribution were retained with the new entrepreneurial palette. Prompt specifications are editable text; the PNG artwork and text are flattened.

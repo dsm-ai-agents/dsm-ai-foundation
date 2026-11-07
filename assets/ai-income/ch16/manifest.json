@@ -1,0 +1,112 @@
+{
+  "chapter": 16,
+  "title": "Insurance and financial-service operations",
+  "review_date": "2026-11-07",
+  "format": "Flattened PNG; exact prompts preserved; not editable PowerPoint",
+  "images": [
+    {
+      "chapter": 16,
+      "id": "index",
+      "filename": "00-chapter-index.png",
+      "headline": "Insurance and finance operations",
+      "prompt": "Create ONE finished premium educational presentation slide, landscape 16:9, ideally 1920x1080. Match a consistent Agentic Founder series: Apple-inspired restraint, deep evergreen #142823 fading to near-black green, ivory/white text, restrained amber #F4B544 highlights, muted teal secondary details. Space Grotesk-like headings and Inter-like body. Large exceptionally legible exact English type, generous negative space, 6% safe margins. Polished friendly 3D objects with subtle studio lighting. No robots, money piles, wealth promises, or excessive glow. Exact discreet footer across bottom: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. All specified text must be spelled exactly. Do not add extra text. This teaches a business hypothesis, never guaranteed income.\nText-led CHAPTER INDEX, minimal illustration, large readable typography. Exact text:\nCHAPTER 16\nInsurance and finance operations\nFor people with regulated-workflow expertise and qualified review.\nAI-076  Insurance renewal preparation desk\nAI-077  Insurance claims file organizer\nAI-078  Financial advisor content review support\nAI-079  Client meeting follow-up preparation\nAI-080  Compliance evidence assembly\nChoose one problem. Test one paid offer.\nUse five generous rows with amber IDs and white titles. Tiny polished folder icon at right is enough. Do not crowd the content.",
+      "original_path": "/workspace/generated_images/exec-a66c0c82-4b61-4dd5-8074-f337c44170cd.png",
+      "review_notes": "Visually inspected: all IDs and chapter entries correct, price hypothesis clear, branding legible, qualified review boundary visible.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "81a4ba0a13657d02eb0d94c9d93d06306aec2f898d0aeef237d573abd9b845f8",
+      "review_status": "visually reviewed",
+      "source_idea_id": null
+    },
+    {
+      "chapter": 16,
+      "id": "AI-076",
+      "filename": "AI-076-insurance-renewal-preparation-desk.png",
+      "headline": "Insurance renewal preparation desk",
+      "prompt": "Create ONE finished premium educational presentation slide, landscape 16:9, ideally 1920x1080. Match a consistent Agentic Founder series: Apple-inspired restraint, deep evergreen #142823 fading to near-black green, ivory/white text, restrained amber #F4B544 highlights, muted teal secondary details. Space Grotesk-like headings and Inter-like body. Large exceptionally legible exact English type, generous negative space, 6% safe margins. Polished friendly 3D objects with subtle studio lighting. No robots, money piles, wealth promises, or excessive glow. Exact discreet footer across bottom: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. All specified text must be spelled exactly. Do not add extra text. This teaches a business hypothesis, never guaranteed income.\nTopic card. Upper left eyebrow 'AI-076 \u2022 Insurance and finance operations'. Large headline 'Insurance renewal preparation desk'. Supporting fit line 'Consider this if you know agency operations.'. Left-middle two short blocks with exact text 'Sell: A renewal brief and missing-document checklist.' and 'First test: Review five files with a licensed agent.'. Right-middle dominant illustrative visual: An orderly insurance renewal folder, small calendar and checklist under a human reviewer check; no official seal or incidental text. Bottom content above footer: 'Price hypothesis: $1,500 / client / month' in a small amber outlined pill, and 'No coverage advice or binding changes.' in readable ivory. All business text is a hypothesis. No earnings claim.",
+      "original_path": "/workspace/generated_images/exec-93c3d6d8-9b63-4d4d-aa9f-7ca409a8451f.png",
+      "review_notes": "Visually inspected: all IDs and chapter entries correct, price hypothesis clear, branding legible, qualified review boundary visible.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8a65ab846cb719b1e79b2da478241b69394eb82306d2df01c152ed7a9ac626b1",
+      "review_status": "visually reviewed",
+      "source_idea_id": "AI-076",
+      "source_ids": [
+        "S27",
+        "S06"
+      ]
+    },
+    {
+      "chapter": 16,
+      "id": "AI-077",
+      "filename": "AI-077-insurance-claims-file-organizer.png",
+      "headline": "Insurance claims file organizer",
+      "prompt": "Create ONE finished premium educational presentation slide, landscape 16:9, ideally 1920x1080. Match a consistent Agentic Founder series: Apple-inspired restraint, deep evergreen #142823 fading to near-black green, ivory/white text, restrained amber #F4B544 highlights, muted teal secondary details. Space Grotesk-like headings and Inter-like body. Large exceptionally legible exact English type, generous negative space, 6% safe margins. Polished friendly 3D objects with subtle studio lighting. No robots, money piles, wealth promises, or excessive glow. Exact discreet footer across bottom: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. All specified text must be spelled exactly. Do not add extra text. This teaches a business hypothesis, never guaranteed income.\nTopic card. Upper left eyebrow 'AI-077 \u2022 Insurance and finance operations'. Large headline 'Insurance claims file organizer'. Supporting fit line 'Consider this if you can handle sensitive claim records.'. Left-middle two short blocks with exact text 'Sell: An indexed evidence packet and source-linked timeline.' and 'First test: Compare one file with a professional's packet.'. Right-middle dominant illustrative visual: Evidence folders neatly aligned along a simple timeline with source-linked tabs; magnifying glass and neutral shield shape, no legal seals. Bottom content above footer: 'Price hypothesis: $1,500 / project' in a small amber outlined pill, and 'No fraud verdicts or coverage decisions.' in readable ivory. All business text is a hypothesis. No earnings claim.",
+      "original_path": "/workspace/generated_images/exec-58e460db-c626-49fc-886c-e92fd9e36775.png",
+      "review_notes": "Visually inspected: exact pricing/ID/footer, readable boundaries. Added illustrative labels are benign and not actual client data.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c6ce72a616bd3a21449603b40a025b804f782750a09438feb4adcd7cc3dcd5fe",
+      "review_status": "visually reviewed",
+      "source_idea_id": "AI-077",
+      "source_ids": [
+        "S27",
+        "S06"
+      ]
+    },
+    {
+      "chapter": 16,
+      "id": "AI-078",
+      "filename": "AI-078-financial-advisor-content-review-support.png",
+      "headline": "Financial advisor content review support",
+      "prompt": "Create ONE finished premium educational presentation slide, landscape 16:9, ideally 1920x1080. Match a consistent Agentic Founder series: Apple-inspired restraint, deep evergreen #142823 fading to near-black green, ivory/white text, restrained amber #F4B544 highlights, muted teal secondary details. Space Grotesk-like headings and Inter-like body. Large exceptionally legible exact English type, generous negative space, 6% safe margins. Polished friendly 3D objects with subtle studio lighting. No robots, money piles, wealth promises, or excessive glow. Exact discreet footer across bottom: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. All specified text must be spelled exactly. Do not add extra text. This teaches a business hypothesis, never guaranteed income.\nTopic card. Upper left eyebrow 'AI-078 \u2022 Insurance and finance operations'. Large headline 'Financial advisor content review support'. Supporting fit line 'Consider this if you know regulated communications.'. Left-middle two short blocks with exact text 'Sell: Educational drafts with a claim-and-source checklist.' and 'First test: Send one newsletter through normal review.'. Right-middle dominant illustrative visual: A polished educational newsletter and source checklist beside an editorial pencil and review gate, no stock chart or investment recommendation. Bottom content above footer: 'Price hypothesis: $1,000 / client / month' in a small amber outlined pill, and 'No personal investment advice or unsupported claims.' in readable ivory. All business text is a hypothesis. No earnings claim.",
+      "original_path": "/workspace/generated_images/exec-3ede001d-35ad-4d24-b336-80d9459e4724.png",
+      "review_notes": "Visually inspected: exact pricing/ID/footer, readable boundaries. Added illustrative labels are benign and not actual client data.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "eee6f5550efc781f43ff1f538e4974b947266ee6f3a9480209a7d564378027ec",
+      "review_status": "visually reviewed",
+      "source_idea_id": "AI-078",
+      "source_ids": [
+        "S27",
+        "S06"
+      ]
+    },
+    {
+      "chapter": 16,
+      "id": "AI-079",
+      "filename": "AI-079-client-meeting-follow-up-preparation.png",
+      "headline": "Client meeting follow-up preparation",
+      "prompt": "Create ONE finished premium educational presentation slide, landscape 16:9, ideally 1920x1080. Match a consistent Agentic Founder series: Apple-inspired restraint, deep evergreen #142823 fading to near-black green, ivory/white text, restrained amber #F4B544 highlights, muted teal secondary details. Space Grotesk-like headings and Inter-like body. Large exceptionally legible exact English type, generous negative space, 6% safe margins. Polished friendly 3D objects with subtle studio lighting. No robots, money piles, wealth promises, or excessive glow. Exact discreet footer across bottom: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. All specified text must be spelled exactly. Do not add extra text. This teaches a business hypothesis, never guaranteed income.\nTopic card. Upper left eyebrow 'AI-079 \u2022 Insurance and finance operations'. Large headline 'Client meeting follow-up preparation'. Supporting fit line 'Consider this if you understand financial practice workflows.'. Left-middle two short blocks with exact text 'Sell: Draft action lists from approved meeting notes.' and 'First test: Shadow 10 meetings in an approved system.'. Right-middle dominant illustrative visual: Approved meeting notebook becomes three task cards beside a lock and human confirmation marker; no financial account data or incidental text. Bottom content above footer: 'Price hypothesis: $1,000 / client / month' in a small amber outlined pill, and 'Protect sensitive data; never execute transactions.' in readable ivory. All business text is a hypothesis. No earnings claim.",
+      "original_path": "/workspace/generated_images/exec-f823d0a3-496d-4cd6-9a55-b5411e493291.png",
+      "review_notes": "Visually inspected: correct ID, price hypothesis, exact footer, visible constraints, legible and no material defects.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b0dd3d964139b4a4836b00312f3cc482987bca74b7b370bfd6d29b0a55fff74e",
+      "review_status": "visually reviewed",
+      "source_idea_id": "AI-079",
+      "source_ids": [
+        "S27",
+        "S06"
+      ]
+    },
+    {
+      "chapter": 16,
+      "id": "AI-080",
+      "filename": "AI-080-compliance-evidence-assembly.png",
+      "headline": "Compliance evidence assembly",
+      "prompt": "Create ONE finished premium educational presentation slide, landscape 16:9, ideally 1920x1080. Match a consistent Agentic Founder series: Apple-inspired restraint, deep evergreen #142823 fading to near-black green, ivory/white text, restrained amber #F4B544 highlights, muted teal secondary details. Space Grotesk-like headings and Inter-like body. Large exceptionally legible exact English type, generous negative space, 6% safe margins. Polished friendly 3D objects with subtle studio lighting. No robots, money piles, wealth promises, or excessive glow. Exact discreet footer across bottom: left 'Data Science Masterminds', center 'Agentic Founder', right 'Kunaal Naik & Arpan Saxena'. All specified text must be spelled exactly. Do not add extra text. This teaches a business hypothesis, never guaranteed income.\nTopic card. Upper left eyebrow 'AI-080 \u2022 Insurance and finance operations'. Large headline 'Compliance evidence assembly'. Supporting fit line 'Consider this if you can organize regulated records.'. Left-middle two short blocks with exact text 'Sell: An evidence inventory against a supplied checklist.' and 'First test: Assemble one section for officer review.'. Right-middle dominant illustrative visual: Neatly indexed evidence folders and a checklist dashboard with one amber missing-item tab; a magnifying lens, no approval seal or certification logo. Bottom content above footer: 'Price hypothesis: $2,500 / project' in a small amber outlined pill, and 'This does not certify compliance or replace an audit.' in readable ivory. All business text is a hypothesis. No earnings claim.",
+      "original_path": "/workspace/generated_images/exec-21b03e8e-a0b5-41ee-ae67-ebf8b0403467.png",
+      "review_notes": "Visually inspected: correct ID, price hypothesis, exact footer, visible constraints, legible and no material defects.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8d66083eb5ec8a3a686b9b6c51ae943bd66ba687135d9143ac46c3c56d124f48",
+      "review_status": "visually reviewed",
+      "source_idea_id": "AI-080",
+      "source_ids": [
+        "S27",
+        "S06"
+      ]
+    }
+  ]
+}

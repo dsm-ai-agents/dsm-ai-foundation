@@ -9,7 +9,7 @@ Help working professionals turn existing knowledge and AI capabilities into spec
 
 The project includes accessible starting points and more advanced opportunities across 20 industry and buyer groups. “Beginner” refers to technical entry difficulty, not permission to perform work requiring professional competence or licensing.
 
-The user requested broad research—including Reddit, X/Twitter, LinkedIn and credible influential practitioners—followed by a saved catalog of 100 ideas and a plan for developing them into images. Publishing strategy is outside this phase. Images have not been generated.
+The user requested broad research—including Reddit, X/Twitter, LinkedIn and credible influential practitioners—followed by a saved catalog of 100 ideas and a plan for developing them into images. Publishing strategy is outside this phase. The image collection is now complete: [121 visual assets and local gallery](../../assets/ai-income/README.md).
 
 ## Start here
 
@@ -42,7 +42,7 @@ For filtering and later production: [ideas.csv](ideas.csv), [ideas.json](ideas.j
 
 Repository: `dsm-ai-agents/dsm-ai-foundation`. Folder: `research/100-ai-income-opportunities/`.
 
-The checkout and tracked `origin/main` contained only the original root README when this work began. No previous research or visual guide was available. This project preserves that root title and adds a project link. Its visual brief proposes an entrepreneurial color direction while reserving typography, layout and branding alignment until the existing guide can be recovered.
+The checkout and tracked `origin/main` contained only the original root README when this work began. No previous research or visual guide was available in the initial checkout. The existing visual library and design guide were subsequently recovered from GitHub commit 53b37b2 and preserved. The new collection follows its layout, typography direction and attribution, with evergreen and amber for Agentic Founder.
 
 ## Editorial promise
 
@@ -51,4 +51,6 @@ Sell a defined outcome, show the human expertise required, expose the economics,
 
 ## Decision navigation and image production update
 
-On 7 November 2026, the user authorized committing/pushing the research and parallel image production. The parent visual guide was recovered in remote commit 53b37b2. The current production target is one master index image, 20 chapter index images and 100 decision-oriented topic images, with Agentic Founder branding and an evergreen/amber palette. Earlier notes about missing references describe the initial research snapshot.
+On 7 November 2026, the user authorized committing/pushing the research and parallel image production. The parent visual guide was recovered in remote commit 53b37b2. The completed collection contains one master index image, 20 chapter index images and 100 decision-oriented topic images, with Agentic Founder branding and an evergreen/amber palette. Earlier notes about missing references describe the initial research snapshot.
+
+**Image completion:** All 121 PNGs are native 1672 × 941 and were visually reviewed. Exact prompts, source references and review notes are saved alongside the images. The [gallery](../../assets/ai-income/gallery.html) supports local filtering by industry, level and delivery model.

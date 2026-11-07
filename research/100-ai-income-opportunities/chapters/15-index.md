@@ -75,3 +75,7 @@ Evidence: Medium: named implementation example; budget constraints significant. 
 ## Make one decision
 
 Pick the topic for which you have the strongest existing skills and buyer access. Compare the current workaround, make a small sample and ask for a paid pilot. If the buyer already has an adequate bundled feature, change the offer. Record the outcome in the [validation plan](../PLAN.md); check [economics](../ECONOMICS.md) before committing your time.
+
+## Visual teaching assets
+
+[Chapter index image](../../../assets/ai-income/ch15/00-chapter-index.png) · [Five topic images and review notes](../../../assets/ai-income/ch15/README.md)
