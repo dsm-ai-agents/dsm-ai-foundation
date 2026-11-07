@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "slug": "ai-income-opportunities",
+  "title": "AI Income Opportunities",
+  "program": "Agentic Founder",
+  "authors": [
+    "Kunaal Naik",
+    "Arpan Saxena"
+  ],
+  "phases": {
+    "research": "complete",
+    "written": "planned",
+    "visuals": "complete",
+    "web": "planned"
+  },
+  "topic_catalog": "research/ideas.json",
+  "topic_format": "topics",
+  "expected_topics": 100,
+  "visuals_path": "visuals",
+  "expected_images": 121,
+  "gallery": "visuals/gallery.html"
+}

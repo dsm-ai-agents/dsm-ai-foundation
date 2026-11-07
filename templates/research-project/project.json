@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "slug": "{{SLUG}}",
+  "title": "{{TITLE}}",
+  "program": "{{PROGRAM}}",
+  "authors": [
+    "Kunaal Naik",
+    "Arpan Saxena"
+  ],
+  "phases": {
+    "research": "planned",
+    "written": "planned",
+    "visuals": "planned",
+    "web": "planned"
+  },
+  "topic_catalog": "production/topics.json",
+  "topic_format": "topics",
+  "expected_topics": 0,
+  "visuals_path": "visuals",
+  "expected_images": 0,
+  "gallery": null
+}

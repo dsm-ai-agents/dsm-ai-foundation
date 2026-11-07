@@ -1,0 +1,18 @@
+name: Validate research studio
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests
+      - run: python collections/ai-foundations/production/assemble_library.py --require-complete
+      - run: python collections/ai-income-opportunities/production/build_gallery.py --require-complete
+      - run: python tools/validate_repository.py
+      - run: python tools/build_catalog.py
+      - run: git diff --exit-code -- collections/README.md

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "slug": "ai-foundations",
+  "title": "AI Foundations",
+  "program": "Agentic Accelerator",
+  "authors": [
+    "Kunaal Naik",
+    "Arpan Saxena"
+  ],
+  "phases": {
+    "research": "complete",
+    "written": "planned",
+    "visuals": "complete",
+    "web": "planned"
+  },
+  "topic_catalog": "production/curriculum.json",
+  "topic_format": "chapters",
+  "expected_topics": 100,
+  "visuals_path": "visuals/chapters",
+  "expected_images": 112,
+  "gallery": "visuals/chapters/gallery.html"
+}
